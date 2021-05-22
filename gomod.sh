@@ -7,7 +7,7 @@ fi
 
 touch go.mod
 
-PROJECT_NAME=$(basename $(pwd | xargs dirname))
+PROJECT_NAME=sampado
 CURRENT_DIR=$(basename $(pwd))
 
 CONTENT=$(cat <<-EOD

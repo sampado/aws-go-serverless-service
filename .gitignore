@@ -6,6 +6,7 @@ bin
 
 # golang vendor (dependencies) directory
 vendor
+*.sum
 
 # Binaries for programs and plugins
 *.exe
